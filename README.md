@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-This project is a web application that displays weather conditions from various locations. The data is sourced from `OpenWeather` website, using their API key to fetch and display weather information on the site.
+This project is a web application that displays weather conditions from various locations. The data is sourced from `OpenWeather` website, using their API key to fetch and display weather information on the website.
 
 ## My Coding Languages and Framework 💻
 ### Languages 📗
